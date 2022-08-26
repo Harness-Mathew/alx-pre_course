@@ -1,2 +1,6 @@
-/.emacs.desktop
-~/.emacs.desktop
+/.desktop
+~/.emacs.uto-save-list
+
+tramp
+
+.\#*desktop
